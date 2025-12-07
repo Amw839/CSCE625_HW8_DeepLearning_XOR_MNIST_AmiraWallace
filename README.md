@@ -1,0 +1,2 @@
+# CSCE625_HW8_DeepLearning_XOR_MNIST_AmiraWallace
+CSCE625_HW8_DeepLearning_XOR_MNIST_AmiraWallace
